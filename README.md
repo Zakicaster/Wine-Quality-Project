@@ -5,5 +5,6 @@ Wine Quality Compared!
 2. Linear Regression
 3. Decision-Tree Regression
 4. math
-5. Numpy6. Pandas
+5. Numpy
+6. Pandas
 #### Achieved an accuracy score of 88.8% = 89%!
